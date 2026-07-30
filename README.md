@@ -1,5 +1,5 @@
 # 推流效果图
-![[Preview.png]]
+![Preview](Preview.png)
 
 # 摄像头列表
 
