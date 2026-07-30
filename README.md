@@ -37,7 +37,7 @@ sudo wget https://github.com/bluenviron/mediamtx/releases/latest/download/mediam
 ```
 sudo wget https://github.com/bluenviron/mediamtx/releases/latest/download/mediamtx_linux_arm64.tar.gz
 ```
-
+到这一步，你会发现**根本下载不了**因为狗连接不上github，怎么办呢，移步到这个repo下面的**mediamtx_v1.19.3_linux_arm64.tar.gz**，为了防止仓库删库跑路和开发的稳定性，把能用的这个二进制上传到该repo里里
 解压：
 
 ```
